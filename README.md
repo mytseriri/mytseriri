@@ -1,4 +1,4 @@
-## Hi, I'm Mytseri 🎉
+## Hi, I'm Mytseriri 🎉
 
 
 👨‍🎓 Engineering student at Polytech Sorbonne Université<br/>
