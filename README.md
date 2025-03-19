@@ -1,5 +1,4 @@
-## Hi, I'm eri 💤
-
+## Hi, I'm eri 🍉
 
 👨‍🎓 Engineering student at Polytech Sorbonne Université<br/>
 🌟 I try to create programs to get hang of coding but big projects will appear soon !<br/>
