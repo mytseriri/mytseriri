@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Elias 🎉
 
-<!--
-**mytseriri/mytseriri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨‍🎓 Engineering student at Polytech Sorbonne Université<br/>
+🌟 I try to create programs to get hang of coding but big projects will appear soon !<br/>
+🫧 I really like things revolving around Music, Anime and Volleyball so don't hesitate to dm me on  [Instagram](https://www.instagram.com/mysteriri2/) 📷<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 🍓 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 🥭 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mytseriri&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mytseriri&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mytseriri&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
